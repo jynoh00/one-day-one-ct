@@ -1,0 +1,28 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+# VS Code
+.vscode/
+*.code-workspace
+# C/C++ build artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.dSYM/
+a.out
+build/
+# Temporary files
+*.log
+*.tmp
+*.temp
+*~
