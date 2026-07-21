@@ -57,6 +57,7 @@ one-day-one-ct/
 | 3 | 2026-07-16 | 시간 복잡도 | 구름 | . | cpp |
 | 4 | 2026-07-17 | 청소년 상어 | 백준 | 골드1 | cpp |
 | 5 | 2026-07-20 | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | 프로그래머스 | Lv.2 | cpp |
+| 6 | 2026-07-21 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | 프로그래머스 | Lv.2 | cpp |
 
 ## 5. 풀이 및 회고 형식
 
