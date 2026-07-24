@@ -59,6 +59,7 @@ one-day-one-ct/
 | 5 | 2026-07-20 | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | 프로그래머스 | Lv.2 | cpp |
 | 6 | 2026-07-21 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | 프로그래머스 | Lv.2 | cpp |
 | 7 | 2026-07-23 | [바이러스 파이프 - 2025 카카오 하반기 1차](https://school.programmers.co.kr/learn/courses/30/lessons/468373) | 프로그래머스 | Lv.2 | cpp |
+| 8 | 2026-07-24 | [노란불 신호등 - 2025 카카오 하반기 1차](https://school.programmers.co.kr/learn/courses/30/lessons/468371) | 프로그래머스 | Lv.1 | cpp |
 
 
 ## 5. 풀이 및 회고 형식
