@@ -63,7 +63,8 @@ one-day-one-ct/
 | 9 | 2026-07-27 | [중요한 단어를 스포 방지 - 2025 카카오 하반기 1차](https://school.programmers.co.kr/learn/courses/30/lessons/468370) | 프로그래머스 | Lv.1 | cpp |
 | 10 | 2026-07-28 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 프로그래머스 | Lv.2 | cpp |
 | 11 | 2026-07-30 | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | 프로그래머스 | Lv.2 | cpp |
-
+| 12 | 2026-08-18 | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 프로그래머스 | Lv.2 | cpp |
+| 13 | 2026-08-18 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | 프로그래머스 | Lv.2 | cpp |
 
 ## 5. 풀이 및 회고 형식
 
