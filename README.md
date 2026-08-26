@@ -65,6 +65,7 @@ one-day-one-ct/
 | 11 | 2026-07-30 | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | 프로그래머스 | Lv.2 | cpp |
 | 12 | 2026-08-18 | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 프로그래머스 | Lv.2 | cpp |
 | 13 | 2026-08-18 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | 프로그래머스 | Lv.2 | cpp |
+| 14 | 2026-08-26 | [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | 프로그래머스 | Lv.2 | cpp |
 
 ## 5. 풀이 및 회고 형식
 
